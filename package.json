@@ -1,21 +1,27 @@
 {
-  "name": "mozaik-ext-time",
-  "version": "1.1.0",
+  "name": "@tlake/mozaik-ext-time",
+  "version": "1.1.1",
   "description": "Mozaik time widgets",
   "repository": {
     "type": "git",
-    "url": "git://github.com/plouc/mozaik-ext-time"
+    "url": "git://github.com/tlake/mozaik-ext-time"
   },
   "license": "MIT",
   "author": {
     "name": "Raphaël Benitte",
     "url": "https://github.com/plouc"
   },
+  "contributors": [
+      {
+          "name": "Tanner Lake",
+          "url": "https://github.com/tlake"
+      }
+  ],
   "engines": {
     "node": "0.12.x",
     "npm": ">=3.0.0"
   },
-  "homepage": "https://github.com/plouc/mozaik-ext-time",
+  "homepage": "https://github.com/tlake/mozaik-ext-time",
   "main": "./src/components/index.js",
   "keywords": [
     "time",
